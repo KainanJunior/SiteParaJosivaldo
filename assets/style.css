@@ -61,9 +61,8 @@
     background-color: white;
     width: 100%;
     top: 200px;
-    margin-left: 200px;
     display: flex;
-    
+    justify-items: center;
 }
 .paragrafo-1{
     display: flex;
@@ -82,7 +81,7 @@
 .servico-title{
     margin-top: 40px;
     display: flex;    
-    flex-direction: column;
+    flex-direction: ROW;
     justify-content: space-between;
     gap: 4em;
 }
