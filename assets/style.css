@@ -119,6 +119,7 @@ body{
 /* parte do oçamento */
 .orcamento{
     margin-left: 300px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     margin: auto;
