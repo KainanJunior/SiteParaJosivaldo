@@ -1,48 +1,28 @@
+a{
+    text-decoration-line: none;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 body{
-    padding:0;
     margin: 0;
-    background-color: rgb(255, 255, 255);
 }
 header{
-    background-color: rgb(4, 92, 30);
-    margin: 30px;
-    width: auto;
-    height: 150px;
-    display: flex;
-}
-/* imagens */
-.itens_header{
-    margin-left: 30px;
-    color: rgb(196, 252, 189);
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 20px;
-
+    background-color: #46a654;
+    height: auto;
+    
 }
 .logo{
-    width: 150px;
+    margin-left: 25px;
 }
-.header_wpp{
-    padding: 5px;
-    margin-left: 30px;
+.itens_header{
     display: flex;
-    font-size: 18px;
-    flex-direction: row;
     align-items: center;
-    gap:10px;
-} 
-.text-guincho{
-    font-size: 50px;
+    gap: 1500px;
 }
-.space{
-    width: 1060px;
+.links_header{
+    height: 30px;
+    text-align: center;
+    gap: 2;
+    background-color: white;
 }
-.number_wpp{
-    color: rgb(255, 255, 255);
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: underline;
-    font-size: 12px;
-}
-
-
